@@ -1,2 +1,2 @@
 # pythin-pi-example
-This is a simple test while getting started with linux
+This is a simple test with git.
